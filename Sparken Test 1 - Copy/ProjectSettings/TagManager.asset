@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Attack
+  - Enemy
+  - Background
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Intangible
+  - Invincible
+  - Solid
+  - Characters
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background 6
+    uniqueID: 2485820595
+    locked: 0
+  - name: Background 5
+    uniqueID: 3269436413
+    locked: 0
+  - name: Background 4
+    uniqueID: 2814817617
+    locked: 0
+  - name: Background 3
+    uniqueID: 1139152315
+    locked: 0
+  - name: Background 2
+    uniqueID: 1636099229
+    locked: 0
+  - name: Background 1
+    uniqueID: 915212963
+    locked: 0
+  - name: Projectiles
+    uniqueID: 3271626135
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground 1
+    uniqueID: 2589639135
+    locked: 0
+  - name: Interface
+    uniqueID: 2126064655
+    locked: 0
