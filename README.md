@@ -2,9 +2,9 @@
 Project Files for Super Spark World
 <p>
 Includes:
-  <b>
+  <br>
 - Art Assets
-    <b>
+    <br>
 - Scripts
-      <b>
+      <br>
 - Settings
