@@ -6,5 +6,7 @@ Includes:
 - Art Assets
     <br>
 - Scripts
+  <br>
+- Prefabs
       <br>
 - Settings
